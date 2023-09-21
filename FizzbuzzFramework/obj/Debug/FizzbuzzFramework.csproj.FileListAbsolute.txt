@@ -1,0 +1,7 @@
+C:\Work\Training\FizzbuzzFramework\FizzbuzzFramework\obj\Debug\FizzbuzzFramework.csproj.AssemblyReference.cache
+C:\Work\Training\FizzbuzzFramework\FizzbuzzFramework\obj\Debug\FizzbuzzFramework.csproj.SuggestedBindingRedirects.cache
+C:\Work\Training\FizzbuzzFramework\FizzbuzzFramework\obj\Debug\FizzbuzzFramework.csproj.CoreCompileInputs.cache
+C:\Work\Training\FizzbuzzFramework\FizzbuzzFramework\bin\Debug\FizzbuzzFramework.exe
+C:\Work\Training\FizzbuzzFramework\FizzbuzzFramework\bin\Debug\FizzbuzzFramework.pdb
+C:\Work\Training\FizzbuzzFramework\FizzbuzzFramework\obj\Debug\FizzbuzzFramework.exe
+C:\Work\Training\FizzbuzzFramework\FizzbuzzFramework\obj\Debug\FizzbuzzFramework.pdb
